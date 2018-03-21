@@ -27,6 +27,8 @@ This section is now different on the conflictbranch as soon as we save, close, a
 ##Method
 How will we resolve this conflict, since the "base" now has a conflict in it?
 
+##No More Conflicts
+We can now mege back into master without any trouble
 - Bulleted
 - List
 
